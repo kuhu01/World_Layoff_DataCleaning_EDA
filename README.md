@@ -1,6 +1,6 @@
 # 📉 World Layoff Data Analysis (2020–2025)
 
-This project focuses on analyzing global layoff trends from 2020 to 2025 using the World Layoff dataset available on [Kaggle](https://www.kaggle.com/). The entire analysis is performed using SQL for data cleaning, transformation, and exploratory analysis.
+This project focuses on analyzing global layoff trends from 2020 to 2025 using the World Layoff dataset available on Kaggle. The entire analysis is performed using SQL for data cleaning, transformation, and exploratory analysis.
 
 ---
 
